@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on Jose Reye&#39;s Site</title>
+    <link>https://letitbeat.github.io/categories/category/</link>
+    <description>Recent content in Category on Jose Reye&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Feb 2019 18:12:41 +0100</lastBuildDate>
+    
+	<atom:link href="https://letitbeat.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Hexo to Hugo</title>
+      <link>https://letitbeat.github.io/2019/02/from-hexo-to-hugo/</link>
+      <pubDate>Fri, 08 Feb 2019 18:12:41 +0100</pubDate>
+      
+      <guid>https://letitbeat.github.io/2019/02/from-hexo-to-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
